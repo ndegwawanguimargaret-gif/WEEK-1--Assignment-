@@ -1,3 +1,4 @@
 Week 1 software development assignment
 Test 1; The project files have been created.
 Test 2; The HTML page contains a heading and paragraphs'
+Test 3:The HTML page contains a heading and paragraphs'
